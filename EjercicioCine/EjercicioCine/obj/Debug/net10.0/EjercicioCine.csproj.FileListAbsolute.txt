@@ -1,0 +1,14 @@
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\bin\Debug\net10.0\EjercicioCine.exe
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\bin\Debug\net10.0\EjercicioCine.deps.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\bin\Debug\net10.0\EjercicioCine.runtimeconfig.json
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\bin\Debug\net10.0\EjercicioCine.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\bin\Debug\net10.0\EjercicioCine.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\EjercicioCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\EjercicioCine.AssemblyInfoInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\EjercicioCine.AssemblyInfo.cs
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\EjercicioCine.csproj.CoreCompileInputs.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\EjercicioCine.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\refint\EjercicioCine.dll
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\EjercicioCine.pdb
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\EjercicioCine.genruntimeconfig.cache
+C:\Users\izann\FP DAW 1º\PROGRAMACIÓN\EjercicioCine\EjercicioCine\EjercicioCine\obj\Debug\net10.0\ref\EjercicioCine.dll
