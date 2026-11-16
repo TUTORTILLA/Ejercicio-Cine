@@ -1,0 +1,14 @@
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\bin\Debug\net8.0\EjercicioCineDAW.exe
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\bin\Debug\net8.0\EjercicioCineDAW.deps.json
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\bin\Debug\net8.0\EjercicioCineDAW.runtimeconfig.json
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\bin\Debug\net8.0\EjercicioCineDAW.dll
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\bin\Debug\net8.0\EjercicioCineDAW.pdb
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\EjercicioCineDAW.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\EjercicioCineDAW.AssemblyInfoInputs.cache
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\EjercicioCineDAW.AssemblyInfo.cs
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\EjercicioCineDAW.csproj.CoreCompileInputs.cache
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\EjercicioCineDAW.dll
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\refint\EjercicioCineDAW.dll
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\EjercicioCineDAW.pdb
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\EjercicioCineDAW.genruntimeconfig.cache
+D:\USERS_NO_BORRAR\izan.nikolov\Downloads\PROYECTOS SCRIPTS\EJERCICIOS_PROGRAMACIÓN\EjercicioCineDAW\EjercicioCineDAW\EjercicioCineDAW\obj\Debug\net8.0\ref\EjercicioCineDAW.dll
